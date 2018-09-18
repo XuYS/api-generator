@@ -1,5 +1,5 @@
 const Vue = require('vue')
-const Vuetify = require('vuetify')
+const Vuetify = require('vue-mongol-tify')
 const fs = require('fs')
 const map = require('./map')
 const deepmerge = require('deepmerge')
